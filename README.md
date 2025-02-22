@@ -2,7 +2,7 @@
 
 Delicately-TUICed 0-RTT proxy protocol
 
-**Warning: TUIC's [dev](https://github.com/EAimTY/tuic/tree/dev) branch is under heavy development. For end-user, please check out the latest released tag**
+[Learn more about why the TUIC project is being restarted (in Simplified Chinese)](https://www.eaimty.com/2025/restart-developing-tuic-but-not-as-the-author)
 
 ## Introduction
 
@@ -24,19 +24,10 @@ When paired with QUIC, TUIC can achieve:
     - Optional 0-RTT connection handshake
     - Connection migration
 
-Fully-detailed TUIC protocol specification can be found in [SPEC.md](https://github.com/EAimTY/tuic/blob/dev/SPEC.md)
-
-## Overview
-
-There are 4 crates provided in this repository:
-
-- **[tuic](https://github.com/EAimTY/tuic/tree/dev/tuic)** - Library. The protocol itself, protocol & model abstraction, synchronous / asynchronous marshalling
-- **[tuic-quinn](https://github.com/EAimTY/tuic/tree/dev/tuic-quinn)** - Library. A thin layer on top of [quinn](https://github.com/quinn-rs/quinn) to provide functions of TUIC
-- **[tuic-server](https://github.com/EAimTY/tuic/tree/dev/tuic-server)** - Binary. Minimalistic TUIC server implementation as a reference
-- **[tuic-client](https://github.com/EAimTY/tuic/tree/dev/tuic-client)** - Binary. Minimalistic TUIC client implementation as a reference
+Fully-detailed TUIC protocol specification can be found in [SPEC.md](https://github.com/tuic-protocol/tuic/blob/master/SPEC.md)
 
 ## License
 
-Code in this repository is licensed under [GNU General Public License v3.0](https://github.com/EAimTY/tuic/blob/dev/LICENSE)
+Code in this repository is licensed under [GNU General Public License v3.0](https://github.com/tuic-protocol/tuic#GPL-3.0-1-ov-file)
 
 However, the concept of the TUIC protocol is license-free. You can implement, modify, and redistribute the protocol without any restrictions, even for commercial use
