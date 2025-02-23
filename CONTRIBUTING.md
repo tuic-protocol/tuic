@@ -23,7 +23,7 @@ While this repository focuses on the protocol specification, the TUIC community 
 
 ## Contribution Process
 
-1. **Start a Discussion:** Before making significant changes, open an issue to discuss your proposal with the community. This helps ensure your work aligns with the project's goals and prevents wasted effort.
+1. **Start a Discussion:** Before making significant changes, [open an issue](https://github.com/tuic-protocol/tuic/issues/new/choose) to discuss your proposal with the community. This helps ensure your work aligns with the project's goals and prevents wasted effort.
 
 2. **Fork, Branch, and Make Changes:** Follow the standard GitHub workflow: fork the repository, create a branch, and make your changes.
 
