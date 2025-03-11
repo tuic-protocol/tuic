@@ -40,6 +40,7 @@ If your implementation is not listed, feel free to open a pull request to add it
 | Name | Open Source |
 | - | - |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | Yes |
+| [shoes](https://github.com/cfal/shoes) | Yes |
 | [sing-box](https://github.com/SagerNet/sing-box) | Yes |
 | [tuic (Itsusinn/tuic)](https://github.com/Itsusinn/tuic) | Yes |
 
