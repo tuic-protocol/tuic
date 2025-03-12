@@ -49,6 +49,7 @@ If your implementation is not listed, feel free to open a pull request to add it
 | - | - | - |
 | [ClashRS](https://github.com/Watfaq/clash-rs) | Cross-platform | Yes |
 | [dae](https://github.com/daeuniverse/dae) | Linux | Yes |
+| [Egern](https://egernapp.com/) | iPhone/iPad| No |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | Cross-platform | Yes |
 | [Shadowrocket](https://shadowlaunch.com/) | iPhone/iPad/Apple TV | No |
 | [sing-box](https://github.com/SagerNet/sing-box) | Cross-platform | Yes |
